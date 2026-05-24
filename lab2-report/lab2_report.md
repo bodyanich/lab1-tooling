@@ -165,17 +165,13 @@ make all
 
 Після push змін на GitHub workflow автоматично запускається. Успішне проходження підтверджується зеленою галочкою.
 
-```md
+
 ![GitHub Actions success](screenshots/12_github_actions_success.png)
-```
+
 
 ### 11. Додавання статус-бейджа в README
 
-У файл `README.md` було додано бейдж статусу GitHub Actions:
-
-```md
-![Go CI](https://github.com/bborodiy41/lab1-tooling/actions/workflows/ci.yml/badge.svg)
-```
+У файл `README.md` було додано бейдж статусу GitHub Actions
 
 ### 12. Оновлення залежності до конкретної версії
 
