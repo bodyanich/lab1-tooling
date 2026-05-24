@@ -153,9 +153,9 @@ git commit -m "Initial lab1 Go tooling setup"
 
 Після цього проєкт було завантажено на GitHub і створено Pull Request.
 
-```md
+
 ![Pull Request](screenshots/08_pull_request.png)
-```
+
 
 ## Результати виконання
 
